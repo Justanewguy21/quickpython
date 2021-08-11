@@ -5,3 +5,7 @@ print(valstr)
 #String concatenation
 name = "Thanh"
 print("My nam is " + name)
+name = 1
+print("gia tri cua name la " + str(name))
+#dong lenh thu 8,9
+
