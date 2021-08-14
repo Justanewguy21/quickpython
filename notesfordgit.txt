@@ -1,0 +1,11 @@
+Command to config git local
+    git config --global user.Justanewguy21
+    git config --global email.taothanh2020@gmail.com
+command1 git init(Lệnh git init được sử dưng để tạo, khởi tạo một kho chứa Git mới (Git Repo) ở local.)
+command2 git remote add quickpython https://github.com/Justanewguy21/quickpython.git
+command3 git add [ten file]
+command4 git commit -m "changes"
+command5 git push quickpython(the name of the repository)
+command6 git status(cho tinh hinh hien trang cua repository dang lam)
+command7 git pull quickpython(the name of the repository)
+
