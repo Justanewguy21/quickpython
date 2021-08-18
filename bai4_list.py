@@ -63,3 +63,6 @@ number1.extend(number2)
 print(number1)
 number1.remove("a")
 print(number1)
+# turple
+t1 = ('a','b','c')
+print(t1)
