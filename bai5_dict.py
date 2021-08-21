@@ -34,4 +34,41 @@ print(stu['email'])
 print(students['Thanh']['email'])
 
 
-print(students.keys())
+school = {
+    '6A1': {
+        'khoi':6,
+        'tenlop':'6A1',
+        'chunhiem':'Tran Van A',
+        'siso':47
+    },
+    '6A2': {
+        'khoi':6,
+        'tenlop':'6A2',
+        'chunhiem':'Tran Van B',
+        'siso':45
+    },
+
+
+}
+
+school2 = {
+    'khoi7': {
+        'classroom': {
+            '7A1': {
+                'tenlop': 71,
+                'chunhiem': 'Nguyen Van A',
+                'siso': 50
+            },
+            '7A2': {
+                'tenlop': 72,
+                'chunhiem': 'Nguyen Van B',
+                'siso': 46
+            }
+        }
+    }
+}       
+ 
+print(school['6A1']['chunhiem'])
+print(school2['khoi7']['classroom']['7A1']['chunhiem'])
+# comparison between a simple way and a complicated way
+
