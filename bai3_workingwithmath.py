@@ -1,6 +1,6 @@
 # ------------------------------------------------------
 # By    Tao Thanh
-# Date  12 Aug 2021
+# Date  14 Aug 2021
 # Todo  Work with Math module
 # 12/8/2021
 #   - continue with floor, ceil, sqrt, sin, cos, tan, cot             

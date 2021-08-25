@@ -20,11 +20,12 @@ a = introduce_me('Son', 1.75, '8B')
 print(a)
 # functions return results
 def sum (a = 0, b = 1):
+    print(f'gia tri cua a {a}, b la {b}')
     x = a + b
     return x
 i = sum(1,2)
 print(i)
-
+i = sum(b = 1, a  = 2)
 i = sum()
 print(i)
 
@@ -55,6 +56,3 @@ def add1():
     print(number)
 add1()
 print(number)
-
-
-
