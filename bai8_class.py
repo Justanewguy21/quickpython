@@ -3,6 +3,7 @@
 # Date  25 Aug 2021
 # Todo  Work with class
 # ------------------------------------------------------
+number_of_classes = 2
 class Player:
     def __init__(self, name, year, club):
         self.name = name
